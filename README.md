@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @trueJomi
+- 👋 Hi, I’m @trueJomi or Jose Miguel Vasquez
+- 💼 I'm Data Scientist 
 - 👀 I'm interested in the Stories of the world
 - 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me truejomiv@gmail.com
+- 📗 I'm part of the platzi community
